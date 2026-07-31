@@ -1,8 +1,16 @@
-[
-  {
-    "title": "Alaskan Jellies",
-    "location": "Alaska",
-    "url_1080p": "https://sylvan.apple.com/Videos/g201_AK_A003_C014_SDR_20191113_SDR_2K_AVC.mov",
-    "url_4k": "https://sylvan.apple.com/Videos/g201_AK_A003_C014_SDR_20191113_SDR_4K_AVC.mov"
-  }
-]
+{
+        "location": "Undersea",
+        "title": "Alaskan Jellies 1",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/AK_A004_C012_SDR_20191217_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/AK_A004_C012_HDR_20191217_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/AK_A004_C012_SDR_20191217_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/AK_A004_C012_HDR_20191217_HDR_4K_HEVC.mov"
+    },
+    {
+        "location": "Undersea",
+        "title": "Alaskan Jellies 2",
+        "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/g201_AK_A003_C014_SDR_20191113_SDR_2K_HEVC.mov",
+        "url_1080p_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/g201_AK_A003_C014_HDR_20191028_HDR_2K_HEVC.mov",
+        "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/g201_AK_A003_C014_SDR_20191113_SDR_4K_HEVC.mov",
+        "url_4k_hdr": "http://sylvan.apple.com/Aerials/2x/Videos/g201_AK_A003_C014_HDR_20191028_HDR_4K_HEVC.mov"
+    }
