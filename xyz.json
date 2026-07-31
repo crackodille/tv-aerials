@@ -1,10 +1,6 @@
-{
-  "assets": [
-    {
-      "id": "alaskan_jellies",
-      "accessibilityLabel": "Alaskan Jellies",
-      "url": "https://sylvan.apple.com/Videos/g201_AK_A003_C014_SDR_20191113_SDR_2K_AVC.mov",
-      "pointsOfInterest": {}
-    }
-  ]
-}
+[
+  {
+    "id": "jellyfish_1",
+    "url": "https://sylvan.apple.com/Videos/g201_AK_A003_C014_SDR_20191113_SDR_2K_AVC.mov"
+  }
+]
