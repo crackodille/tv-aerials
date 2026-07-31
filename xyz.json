@@ -1,8 +1,10 @@
-[
-  {
-    "id": "C7AD3D0A-7EDF-412C-A237-B3C9D27381A1",
-    "accessibilityLabel": "Alaskan Jellies",
-    "url": "https://sylvan.apple.com/Videos/g201_AK_A003_C014_SDR_20191113_SDR_2K_AVC.mov",
-    "type": "video"
-  }
-]
+{
+  "assets": [
+    {
+      "id": "alaskan_jellies",
+      "accessibilityLabel": "Alaskan Jellies",
+      "url": "https://sylvan.apple.com/Videos/g201_AK_A003_C014_SDR_20191113_SDR_2K_AVC.mov",
+      "pointsOfInterest": {}
+    }
+  ]
+}
